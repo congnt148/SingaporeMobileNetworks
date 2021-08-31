@@ -4,6 +4,14 @@ This is an example app for the amount the of data sent over Singapore’s mobile
 
 # Running the project
  - Clone this project
- - yarn && cd ios && pod install && cd ..
- - yarn ios
- - yarn android
+ ```
+ yarn && cd ios && pod install && cd ..
+ ```
+ - Run ios
+ ```
+ yarn ios
+ ```
+ - Run android
+ ```
+ yarn android
+ ```
